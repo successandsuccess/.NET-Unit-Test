@@ -1,0 +1,72 @@
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+## Rider settings
+.idea/
+
+## ASP.NET stuff
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Visual Studio
+*.vs/
+.vs/
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+.nuget/
+
+## DotCover
+*.dotCover
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Build results from dotnet build
+*.dll
+*.exe
+*.app
+*.cache
+*.pdb
+*.mdb
+
+## Others
+*.log
+*.tlog
+*.DS_Store
+*.tmp
+*.bak
+*.swp
+*.sln.ide
+
+# Auto-generated files
+Generated_Code/
+
+# Publish
+publish/
+out/
